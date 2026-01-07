@@ -107,20 +107,20 @@ Leakage-safe evaluation using R² score
 
 📂 Repository Structure
 ├── data_fetcher.py
-│   └── Downloads Zoom-19 satellite tiles (no API key required)
-│
+  └── Downloads Zoom-19 satellite tiles (no API key required)
+
 
 ├── preprocessing.ipynb
-│   └── EDA, cleaning, feature engineering, log transforms
-│
+  └── EDA, cleaning, feature engineering, log transforms
+
 
 ├── model_training.ipynb
-│   └── Training pipeline for tabular and hybrid models
-│
+   └── Training pipeline for tabular and hybrid models
+
 
 ├── final_multimodal_predictions.csv
-│   └── Final test-set predictions
-│
+   └── Final test-set predictions
+
 
 └── property_images/
     └── Satellite image tiles for each property
